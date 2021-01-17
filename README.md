@@ -7,8 +7,9 @@ School District Analysis had been done before, but the school board found the ev
     - Because some grades are deleted, average math and reading scores change.
     - Passing student counts change, so that passing percentages also change.
     - 'Total Students' and 'Budget' remains the same.
-    ![School_District_Analysis_before](Resourses/School_District_Analysis_before.png)
-    ![School_District_Analysis_after](Resourses/School_District_Analysis_after.png)
+    
+ ![School_District_Analysis_before](Resourses/School_District_Analysis_before.png)
+ ![School_District_Analysis_after](Resourses/School_District_Analysis_after.png)
 
 - How is the "school summary" affected?
     - 'Total Students' remains the same.
